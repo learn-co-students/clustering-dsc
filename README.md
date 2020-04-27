@@ -1,6 +1,6 @@
 # clustering-dsc
 
-**Objectives
+**Objectives**
 
 - Determining where does clustering fit in the machine learning landscape
 - Understanding the difference between two popular clustering methods
