@@ -1,7 +1,11 @@
 # clustering-dsc
 
-## Learning Objectives
+This repository covers the topic of clustering through 2 lectures:
+- Lecture 1 explores K-means
+- Lecture 2 explores hierarchical agglomerative clustering
 
+## Learning Objectives
+By the end of these sessions students should be able to:
 * [ ] Determining where does clustering fit in the machine learning landscape
 * [ ] Explain the process a K-means algorithm follows
 * [ ] Explain the process Agglomerative Hierarchical Clustering follows
@@ -14,7 +18,10 @@
 
 ## Resources
 
+### Lecture 1
+https://github.com/learn-co-students/kmeans-london-ds
+
+### Lecture 2
 [Slides](https://docs.google.com/presentation/d/1_FSF6woO6MOTRwDZmH_o4sG3lbl8nagRfhC_R6Q_Dc0/edit?usp=sharing)<br>
 [Code along](https://github.com/learn-co-students/clustering-dsc/blob/master/Clustering%20Examples.ipynb)<br>
-[K-means Exit ticket](https://forms.gle/wNBeVkw2ZeabapAK7)<br>
 [Hierarchical Exit ticket](https://forms.gle/yTwDwJaW9Yu9Gro97)<br>
